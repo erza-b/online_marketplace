@@ -4,12 +4,9 @@
 
 Welcome to the Online Marketplace project! This Django-based web application allows users to interact with an online marketplace where they can perform various actions such as browsing, editing, deleting items, and adding new ones. Users can also communicate with sellers by sending messages. Additionally, the application provides a convenient way to filter items by categories.
 
-The project is deployed using Streamlit, enhancing the user experience with a streamlined interface.
-
 ## Technologies Used
 
 - **Django:** The web framework used to build the backend of the application.
-- **Streamlit:** Utilized for creating a user-friendly and interactive frontend.
 - **SQLite:** The default database used by Django for storing data.
 
 ## Features
@@ -29,5 +26,6 @@ The project is deployed using Streamlit, enhancing the user experience with a st
 
 5. **Messaging System:**
    - Users can send messages to sellers for inquiries or communication regarding a particular item.
+
 
 
